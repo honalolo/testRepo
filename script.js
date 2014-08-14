@@ -35,6 +35,9 @@ function subtract(){
 				var result = firstValue - secondValue;
 				document.getElementById("input4").value = result;
 				}
+function getIp(){
+					
+				}				
 
 
 
